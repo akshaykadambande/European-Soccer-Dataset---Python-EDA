@@ -1,2 +1,3 @@
 # European-Soccer-Dataset---Python-EDA
-This is the "European Soccer Dataset" full dataset analysis by using "Python - Exploratory Data Analysis" 
+This project explores a multi-league football match dataset (2002–2022) covering six major European leagues, domestic cups, and UEFA competitions, following a structured Univariate → Bivariate → Multivariate EDA workflow.
+
